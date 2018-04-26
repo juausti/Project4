@@ -1,0 +1,6 @@
+﻿  BinaryTreeLinkedDriver.cpp
+c:\users\juausti\documents\visual studio 2017\projects\project 4 (school comp)\project 4 (school comp)\binarytreelinked.h(17): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\juausti\documents\visual studio 2017\projects\project 4 (school comp)\project 4 (school comp)\binarytreelinked.h(17): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  c:\users\juausti\documents\visual studio 2017\projects\project 4 (school comp)\project 4 (school comp)\binarytreelinkeddriver.cpp(12): note: see reference to class template instantiation 'BinaryTreeLinked<int>' being compiled
+  Project 4 (School Comp).vcxproj -> c:\users\juausti\documents\visual studio 2017\Projects\Project 4 (School Comp)\Debug\Project 4 (School Comp).exe
+  Project 4 (School Comp).vcxproj -> c:\users\juausti\documents\visual studio 2017\Projects\Project 4 (School Comp)\Debug\Project 4 (School Comp).pdb (Partial PDB)
